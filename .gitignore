@@ -1,0 +1,7 @@
+env
+config_weather.ini
+dags
+logs
+config
+plugins
+scripts/__pycache__/
